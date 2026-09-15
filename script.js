@@ -3,5 +3,5 @@ function startExam() {
 }
 
 function submitExam() {
-    alert("Exam submitted successfully!");
+    alert("Exam submission failed!");
 }
