@@ -5,3 +5,7 @@ function startExam() {
 function submitExam() {
     alert("Exam submission failed!");
 }
+
+function welcomeStudent() {
+    alert("Welcome Student!");
+}
